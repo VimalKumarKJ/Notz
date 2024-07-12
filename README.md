@@ -1,0 +1,2 @@
+# Notz
+Minimalistic Notes application 
